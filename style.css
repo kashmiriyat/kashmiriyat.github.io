@@ -35,7 +35,7 @@ text-align: center;
   height: 100%;
 }
 
-#Home {background-color: red;}
-#News {background-color: green;}
-#Contact {background-color: blue;}
-#About {background-color: orange;}
+#Home {background-color: rgb(236, 87, 87);}
+#Feed {background-color: rgb(98, 199, 98);}
+#Contact {background-color: rgb(60, 60, 192);}
+#About {background-color: rgb(199, 148, 54);}
