@@ -3,6 +3,7 @@
 .topnav {
   background-color: #333;
   overflow: hidden;
+  padding: 0;
 }
 
 /* Style the links inside the navigation bar */
@@ -29,4 +30,18 @@
 .topnav h1{
   text-align: center;
   color: #3fe7aa;
+  }
+li {
+  font-size: large;
+}
+footer {
+  padding-top: 1%;
+  padding-bottom: 1%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
 }
