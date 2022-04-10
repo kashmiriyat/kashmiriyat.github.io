@@ -47,3 +47,9 @@ footer {
   color: white;
   text-align: center;
 }
+img {
+  width: 100%;
+
+  overflow: hidden;
+  border: 5px solid rgb(187, 70, 70);
+}
